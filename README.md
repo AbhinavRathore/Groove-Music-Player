@@ -7,7 +7,7 @@ Features:
 4. Add to playlist, delete from playlist option for a song. 
 5. User dashboard displaying all their liked songs, albums, artists.
 6. A separate page dedicated to each album, each artist and each song. 
-7. Search functionality to find your favorite artist, song and album. 
+7. Search functionality to find your favourite artist, song and album. 
 8. Playing song audio.
 9.Fb login, allowing sharing of user’s playlist on fb.
 10. Showing what other users are listening to. 
